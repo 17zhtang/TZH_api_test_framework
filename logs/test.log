@@ -1,0 +1,107 @@
+19 INFO 2021-11-30 18:20:22 log.py case_log test_case
+20 INFO 2021-11-30 18:20:22 log.py case_log https://www.baidu.com
+21 INFO 2021-11-30 18:20:22 log.py case_log 
+22 INFO 2021-11-30 18:20:22 log.py case_log E000
+19 INFO 2021-11-30 18:21:08 log.py case_log test_case
+20 INFO 2021-11-30 18:21:08 log.py case_log https://www.baidu.com
+21 INFO 2021-11-30 18:21:08 log.py case_log 期望结果
+22 INFO 2021-11-30 18:21:08 log.py case_log 实际结果
+19 INFO 2021-12-01 11:25:53 log.py case_log test_case
+20 INFO 2021-12-01 11:25:53 log.py case_log https://www.baidu.com
+21 INFO 2021-12-01 11:25:53 log.py case_log 期望结果
+22 INFO 2021-12-01 11:25:53 log.py case_log 实际结果
+19 INFO 2021-12-01 11:27:19 log.py case_log test_case
+20 INFO 2021-12-01 11:27:19 log.py case_log https://www.baidu.com
+21 INFO 2021-12-01 11:27:19 log.py case_log 期望结果
+22 INFO 2021-12-01 11:27:19 log.py case_log 实际结果
+INFO 2021-12-01 11:58:13 log.py 27 case_log test_case
+INFO 2021-12-01 11:58:13 log.py 28 case_log https://www.baidu.com
+INFO 2021-12-01 11:58:13 log.py 29 case_log 期望结果
+INFO 2021-12-01 11:58:13 log.py 30 case_log 实际结果
+INFO 2021-12-01 13:47:49 log.py 27 case_log test_case
+INFO 2021-12-01 13:47:49 log.py 28 case_log https://www.baidu.com
+INFO 2021-12-01 13:47:49 log.py 29 case_log 期望结果
+INFO 2021-12-01 13:47:49 log.py 30 case_log 实际结果
+INFO 2021-12-01 13:50:26 log.py 21 case_log test_case
+INFO 2021-12-01 13:50:26 log.py 22 case_log https://www.baidu.com
+INFO 2021-12-01 13:50:26 log.py 23 case_log 鏈熸湜缁撴灉
+INFO 2021-12-01 13:50:26 log.py 24 case_log 瀹為檯缁撴灉
+DEBUG 2021-12-02 11:56:21 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 11:56:21 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 11:56:21 log.py 26 case_log test_auto_audit_gubi_success
+INFO 2021-12-02 11:56:21 log.py 27 case_log http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 11:56:21 log.py 28 case_log E000
+INFO 2021-12-02 11:56:21 log.py 29 case_log <Response [200]>
+DEBUG 2021-12-02 11:57:18 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 11:57:18 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 11:57:18 log.py 26 case_log test_auto_audit_gubi_success
+INFO 2021-12-02 11:57:18 log.py 27 case_log http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 11:57:18 log.py 28 case_log E000
+INFO 2021-12-02 11:57:18 log.py 29 case_log <Response [200]>
+DEBUG 2021-12-02 13:45:02 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 13:45:02 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 13:45:02 log.py 26 case_log test_auto_audit_gubi_success
+INFO 2021-12-02 13:45:02 log.py 27 case_log http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 13:45:02 log.py 28 case_log E000
+INFO 2021-12-02 13:45:02 log.py 29 case_log <Response [200]>
+DEBUG 2021-12-02 14:26:09 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 14:26:09 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 14:26:09 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 14:26:09 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+DEBUG 2021-12-02 14:26:32 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 14:26:32 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 14:26:32 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 14:26:32 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+DEBUG 2021-12-02 14:27:50 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 14:27:50 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 14:27:50 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 14:27:50 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 14:27:50 log.py 28 case_log expected_result:E000
+INFO 2021-12-02 14:27:50 log.py 29 case_log actual_result:<Response [200]>
+DEBUG 2021-12-02 14:28:46 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 14:28:46 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 14:28:46 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 14:28:46 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 14:28:46 log.py 28 case_log expected_result:E000
+INFO 2021-12-02 14:28:46 log.py 29 case_log actual_result:{"code":"E000","message":"Task is running!","success":true}
+
+INFO 2021-12-02 17:13:48 start_test.py 10 start test start
+DEBUG 2021-12-02 17:13:48 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 17:13:48 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 17:13:48 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 17:13:48 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 17:13:48 log.py 28 case_log expected_result:E000
+INFO 2021-12-02 17:13:48 log.py 29 case_log actual_result:{"code":"E000","message":"Task is running!","success":true}
+
+INFO 2021-12-02 17:13:48 start_test.py 16 start test finish
+INFO 2021-12-02 17:18:06 start_test.py 10 start test start
+DEBUG 2021-12-02 17:18:07 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 17:18:07 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 17:18:07 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 17:18:07 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 17:18:07 log.py 28 case_log expected_result:E000
+INFO 2021-12-02 17:18:07 log.py 29 case_log actual_result:{"code":"E000","message":"Task is running!","success":true}
+
+INFO 2021-12-02 17:18:07 start_test.py 16 start test finish
+INFO 2021-12-02 17:29:49 start_test.py 10 start test start
+DEBUG 2021-12-02 17:29:49 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 17:29:49 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 17:29:49 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 17:29:49 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 17:29:49 log.py 28 case_log expected_result:E000
+INFO 2021-12-02 17:29:49 log.py 29 case_log actual_result:{"code":"E000","message":"Task is running!","success":true}
+
+INFO 2021-12-02 17:29:49 start_test.py 16 start test finish
+INFO 2021-12-02 17:43:16 start_test.py 10 start test start
+DEBUG 2021-12-02 17:43:16 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+DEBUG 2021-12-02 17:43:16 connectionpool.py 452 _make_request http://10.103.170.179:8080 "POST /v1/gubi/verification HTTP/1.1" 200 60
+INFO 2021-12-02 17:43:16 log.py 26 case_log case_name:test_auto_audit_gubi_success
+INFO 2021-12-02 17:43:16 log.py 27 case_log url:http://10.103.170.179:8080/v1/gubi/verification
+INFO 2021-12-02 17:43:16 log.py 28 case_log expected_result:E000
+INFO 2021-12-02 17:43:16 log.py 29 case_log actual_result:{"code":"E000","message":"Task is running!","success":true}
+
+INFO 2021-12-02 17:43:16 start_test.py 16 start test finish
+INFO 2021-12-02 18:13:14 start_test.py 10 start test start
+INFO 2021-12-06 11:48:17 start_test.py 10 start test start
+DEBUG 2021-12-06 11:48:17 connectionpool.py 227 _new_conn Starting new HTTP connection (1): 10.103.170.179:8080
+INFO 2021-12-06 11:48:38 start_test.py 14 start test finish
